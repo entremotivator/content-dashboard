@@ -1,0 +1,57 @@
+[
+  {
+    "Date": "2026-01-01",
+    "Day Name": "Thursday",
+    "Start Time": "9:00 AM",
+    "End Time": "10:00 AM",
+    "Event Name": "Sales Team Training",
+    "Format": "Live Training",
+    "Platform": "Zoom / Internal",
+    "Focus / Notes": "Sales skills & strategy",
+    "Completed": false
+  },
+  {
+    "Date": "2026-01-02",
+    "Day Name": "Friday",
+    "Start Time": "12:00 PM",
+    "End Time": "",
+    "Event Name": "Futuristic Fridays",
+    "Format": "Live Stream",
+    "Platform": "Social Platforms",
+    "Focus / Notes": "Future tech, AI trends",
+    "Completed": false
+  },
+  {
+    "Date": "2026-01-03",
+    "Day Name": "Saturday",
+    "Start Time": "Flexible",
+    "End Time": "",
+    "Event Name": "System Saturdays",
+    "Format": "Short Video Tip",
+    "Platform": "All Social Platforms",
+    "Focus / Notes": "Systems & automation",
+    "Completed": false
+  },
+  {
+    "Date": "2026-01-04",
+    "Day Name": "Sunday",
+    "Start Time": "6:00 AM",
+    "End Time": "",
+    "Event Name": "AIVACEO Podcast",
+    "Format": "Audio / Recorded",
+    "Platform": "Podcast Platforms",
+    "Focus / Notes": "Weekly AI discussion & insights",
+    "Completed": false
+  },
+  {
+    "Date": "2026-01-04",
+    "Day Name": "Sunday",
+    "Start Time": "2:00 PM",
+    "End Time": "",
+    "Event Name": "Promptology Tip",
+    "Format": "Video",
+    "Platform": "Social Media",
+    "Focus / Notes": "Quick AI prompt education",
+    "Completed": false
+  }
+]
